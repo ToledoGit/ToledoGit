@@ -4,8 +4,8 @@
 
  <div>
   <a href="https://github.com/toledogit">
-  <img height="180em" width="390" src="https://github-readme-stats.vercel.app/api?username=toledogit&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="250em" width="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=toledogit&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toledogit&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="250em" width="350"src="https://github-readme-stats.vercel.app/api/top-langs/?username=toledogit&layout=compact&langs_count=7"/>
 </div>
 <div>
   <div style="display: inline_block"><br>
